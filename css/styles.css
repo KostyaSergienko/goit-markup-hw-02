@@ -1,5 +1,5 @@
 /*основа*/
-:root{
+/* :root{
     --main-background:#FFFFFF;
     --headlines:#2E2F42;
     --text:#434455;
@@ -7,28 +7,127 @@
     --buttons-link:#4D5AE5;
     --secondary-font:font-family: 'Raleway', sans-serif;
     --primary-font:font-family: 'Roboto', sans-serif;
-}
-/* шрифти
-font-family: 'Raleway', sans-serif;
-font-family: 'Roboto', sans-serif;
-*/
+} */
+/* загальне оформлення */
+
 .body{
-    font-family: var(--primary-font);
-    background-color: var(--main-background);
+
+/* оформлення хедера для студіо та портфоліо */
+
+.header-page {
 }
-/*heder*/
-.nav{
+.header-navigation {
+}
+.logo {
+}
+.header-list {
+}
+.header-list-item {
+}
+.header-mailto {
+}
+.header-telefone {
+}
+ 
+/* ===================оформлення студіо=================== */
+
+/* оформлення мейна */
+
+.main{
 
 }
-.logo{
-    
-}
-.meny{
+/* оформлення мейна секція один */
+
+.hero {
 
 }
-.meny-item{
+.hero-title {
 
 }
-.mail-tel{
+.hero-button {
 
 }
+
+/* оформлення мейна секція два */
+
+.direction {
+}
+.direction-title {
+}
+.direction-list {
+}
+.direction-item {
+}
+.direction-direction {
+}
+.direction-text {
+}
+
+/* оформлення мейна секція три */
+
+.work {
+}
+.work-title {
+}
+.work-list {
+}
+.work-item {
+}
+.work-images {
+}
+.persone-item {
+}
+
+/* оформлення мейна секція чотири*/
+
+.tem {
+}
+.team-title {
+}
+.team-man {
+}
+.team-list {
+}
+.team-images{
+}
+.team-name {
+}
+.team-text {
+}
+
+/* оформлення футера для студіо і портфоліо */
+
+.footer-page {
+}
+.logo {
+}
+.footer-text {
+}
+/* =============оформлення портфоліо=================== */
+
+/* оформлення мейна */
+.main-porfolio {
+}
+
+/* офрмлення секції один */
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-button {
+}
+
+/* оформлення секції два */
+.product {
+}
+.product-list {
+}
+.product-item {
+}
+.product-images {
+}
+.product-decscription {
+}
+.product-text {
+}
+
