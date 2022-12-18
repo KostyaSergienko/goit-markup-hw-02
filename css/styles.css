@@ -233,11 +233,9 @@ background-color: #2E2F42;
     color: #E7E9FC;
 }
 /* =============оформлення портфоліо=================== */
-
 /* оформлення мейна */
 .main-porfolio {
 }
-
 /* офрмлення секції один */
 .portfolio {
 }
@@ -259,9 +257,7 @@ background-color: #2E2F42;
     color: #FFFFFF;
     background-color: #4D5AE5;
 }
-
 .portfolio-button:focus{
-
 }
 /* оформлення секції два */
 .product {
