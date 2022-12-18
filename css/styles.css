@@ -10,20 +10,16 @@
 .link{
     text-decoration: none;
 }
-
 /*====оформлення хедера для студіо та портфоліо======*/
-
 .header-page {
     
 }
 .header-page {
     color: #2E2F42;
 }
-
 .header-page .link {
     color: #2E2F42;
 }
-
 .header-page .link:hover,
 .header-page .link:focus {
     color: #4D5AE5;
@@ -78,10 +74,7 @@
     color: #2E2F42;
     letter-spacing: 0.02em; 
 }
-
-
 .header-info {
-
 }
 .header-mailto {
     font-size: 16px;
@@ -101,7 +94,6 @@
 .main-page{
 }
 /* оформлення мейна секція один */
-
 .hero {
 background-color: #2E2F42;
 }
@@ -129,7 +121,6 @@ background-color: #2E2F42;
     background-color: #FFFFFF;
 }
 /* оформлення мейна секція два */
-
 .direction {
 }
 .direction-title {
@@ -151,9 +142,7 @@ background-color: #2E2F42;
     color: #434455;
     letter-spacing: 0.02em;
 }
-
 /* оформлення мейна секція три */
-
 .work {
 }
 .work-title {
@@ -171,9 +160,7 @@ background-color: #2E2F42;
 }
 .persone-item {
 }
-
 /* оформлення мейна секція чотири*/
-
 .tem {
     background-color: #F4F4FD;
 }
@@ -202,9 +189,7 @@ background-color: #2E2F42;
     line-height: 1.5;
     color: #434455;
 }
-
 /* оформлення футера для студіо і портфоліо */
-
 .footer-page {
     background-color: #2E2F42;
 }
@@ -213,7 +198,6 @@ background-color: #2E2F42;
     flex-direction: row;
     align-items: flex-start;
     padding: 0px;
-    
 }
 .web-logo{
     font-family: 'Raleway', sans-serif;
@@ -243,7 +227,6 @@ background-color: #2E2F42;
     order: 1;
     flex-grow: 0;
 }
-
 .footer-text {
     font-size: 16px;
     line-height: 1.5;
