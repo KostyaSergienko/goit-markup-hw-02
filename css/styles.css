@@ -10,9 +10,29 @@
 .link{
     text-decoration: none;
 }
+.title{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+    letter-spacing: 0.02em
+}
+.text{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    letter-spacing: 0.02em;
+}
+.section{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
 /*====оформлення хедера для студіо та портфоліо======*/
 .header-page {
-    
 }
 .header-page {
     color: #2E2F42;
@@ -130,27 +150,15 @@ background-color: #2E2F42;
 .direction-item {
 }
 .direction-direction {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2E2F42;
-    letter-spacing: 0.02em;
+
 }
 .direction-text {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
-    letter-spacing: 0.02em;
 }
 /* оформлення мейна секція три */
 .work {
 }
 .work-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.1;
-    color:#2E2F42;
-    letter-spacing: 0.02em;
+
 }
 .work-list {
 }
@@ -165,11 +173,6 @@ background-color: #2E2F42;
     background-color: #F4F4FD;
 }
 .team-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.33;
-    color: #2E2F42;
-    letter-spacing: 0.02em;
 }
 .team-man {
 }
@@ -178,16 +181,8 @@ background-color: #2E2F42;
 .team-images{
 }
 .team-name {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2E2F42;
-    letter-spacing: 0.02em;
 }
 .team-text {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
 }
 /* оформлення футера для студіо і портфоліо */
 .footer-page {
@@ -276,9 +271,6 @@ background-color: #2E2F42;
     letter-spacing: 0.02em;
 }
 .product-text {
-    font-size: 16px; 
-    line-height: 1.5;
-    color: #434455;
-    letter-spacing: 0.02em;
+  
 }
 
