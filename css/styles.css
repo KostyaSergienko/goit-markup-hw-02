@@ -4,6 +4,7 @@
     --accent-text-color: #2E2F42;
     --primary-background-color:#FFFFFF;
     --accent-background-color:#F4F4FD;
+    --accent-background-btn:#E7E9FC;
     --accent-color: #4D5AE5;
     --primary-font-family:'Roboto', sans-serif;
     --accent-font-family:'Raleway', sans-serif;
@@ -203,18 +204,17 @@ color: var(--accent-text-color)
 /* .main-porfolio {
 } */
 /* офрмлення секції один */
-/* .portfolio {
-}
-.portfolio-link{
-
+ /* .portfolio {
 } */
+.portfolio-link{
+} 
 .portfolio-button{
     font-family:var(--primary-font-family);
     font-weight: 700;
     font-size: 16px;
     line-height: 1.5;
     color:var(--accent-color);
-    background:#E7E9FC;
+    background:var(--accent-background-btn);
     cursor: pointer;
     letter-spacing: 0.04em;
 }
