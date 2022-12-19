@@ -8,8 +8,6 @@
     --primary-font-family:'Roboto', sans-serif;
     --accent-font-family:'Raleway', sans-serif;
 }
-
-
 /*===========загальне оформлення==============*/
 body{
     font-family:var(--primary-font-family);
