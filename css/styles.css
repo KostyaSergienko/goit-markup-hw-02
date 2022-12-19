@@ -1,9 +1,10 @@
 /*===========змінні================*/
 :root{
     --primary-text-color:#434455;
-    --primary-background-color:#FFFFFF;
-    --accent-color: #4D5AE5;
     --accent-text-color: #2E2F42;
+    --primary-background-color:#FFFFFF;
+    --accent-background-color:#F4F4FD;
+    --accent-color: #4D5AE5;
     --primary-font-family:'Roboto', sans-serif;
     --accent-font-family:'Raleway', sans-serif;
 }
@@ -30,6 +31,7 @@ body{
     line-height: 1.2;
 }
 .section{
+    color:var(--accent-text-color);
     font-weight: 600;
     font-size: 36px;
     line-height: 1.1;
@@ -84,13 +86,13 @@ body{
 .header-mailto {
     font-size: 16px;
     line-height: 1.5;
-    color: #434455;
+    color: var(--primary-text-color);
     letter-spacing: 0.02em;
 }
 .header-telefone {
     font-size: 16px;
     line-height: 1.5;
-    color: #434455;
+    color: var(--primary-text-color);
     letter-spacing: 0.02em;
 }
     /* ===================оформлення студіо=================== */
@@ -154,7 +156,7 @@ color: var(--accent-text-color)
 } */
 /* оформлення мейна секція чотири*/
 .tem {
-    background-color:var(--primary-background-color);
+    background-color:var(--accent-background-color);
 }
 /* .team-title {
 }
@@ -214,7 +216,7 @@ color: var(--accent-text-color)
     font-size: 16px;
     line-height: 1.5;
     color:var(--accent-color);
-    background:var(--primary-background-color);
+    background:#E7E9FC;
     cursor: pointer;
     letter-spacing: 0.04em;
 }
