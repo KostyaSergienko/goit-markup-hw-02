@@ -32,8 +32,8 @@
 }
 
 /*====оформлення хедера для студіо та портфоліо======*/
-.header-page {
-}
+/* .header-page {
+} */
 .header-page {
     color: #2E2F42;
 }
@@ -44,8 +44,8 @@
 .header-page .link:focus {
     color: #4D5AE5;
 }
-.header-navigation {
-}
+/* .header-navigation {
+} */
 .header-logo { 
     display: flex;
     flex-direction: row;
@@ -86,7 +86,7 @@
     order: 1;
     flex-grow: 0;
 }
-.header-lists{}
+/* .header-lists{} */
 .header-list-item {
     font-weight: 700;
     font-size: 16px;
@@ -95,8 +95,8 @@
     letter-spacing: 0.02em; 
 }
 
-.header-info {
-}
+/* .header-info {
+} */
 .header-mailto {
     font-size: 16px;
     line-height: 1.5;
@@ -112,8 +112,8 @@
     /* ===================оформлення студіо=================== */
 
 /* оформлення мейна */
-.main-page{
-}
+/* .main-page{
+} */
 /* оформлення мейна секція один */
 .hero {
 background-color: #2E2F42;
@@ -142,7 +142,7 @@ background-color: #2E2F42;
     background-color: #FFFFFF;
 }
 /* оформлення мейна секція два */
-.direction {
+/* .direction {
 }
 .direction-title {
 }
@@ -154,9 +154,9 @@ background-color: #2E2F42;
 
 }
 .direction-text {
-}
+} */
 /* оформлення мейна секція три */
-.work {
+/* .work {
 }
 .work-title {
 
@@ -168,12 +168,12 @@ background-color: #2E2F42;
 .work-images {
 }
 .persone-item {
-}
+} */
 /* оформлення мейна секція чотири*/
 .tem {
     background-color: #F4F4FD;
 }
-.team-title {
+/* .team-title {
 }
 .team-man {
 }
@@ -184,7 +184,7 @@ background-color: #2E2F42;
 .team-name {
 }
 .team-text {
-}
+} */
 /* оформлення футера для студіо і портфоліо */
 .footer-page {
     background-color: #2E2F42;
@@ -230,14 +230,14 @@ background-color: #2E2F42;
 }
 /* =============оформлення портфоліо=================== */
 /* оформлення мейна */
-.main-porfolio {
-}
+/* .main-porfolio {
+} */
 /* офрмлення секції один */
-.portfolio {
+/* .portfolio {
 }
 .portfolio-link{
 
-}
+} */
 .portfolio-button{
     font-family:inherit;
     font-weight: 700;
@@ -253,17 +253,17 @@ background-color: #2E2F42;
     color: #FFFFFF;
     background-color: #4D5AE5;
 }
-.portfolio-button:focus{
-}
+/* .portfolio-button:focus{
+} */
 /* оформлення секції два */
-.product {
+/* .product {
 }
 .product-list {
 }
 .product-item {
 }
 .product-images {
-}
+} */
 .product-decscription {
     font-weight: 700;
     font-size: 20px;
@@ -271,7 +271,7 @@ background-color: #2E2F42;
     color: #2E2F42;
     letter-spacing: 0.02em;
 }
-.product-text {
+/* .product-text {
   
-}
+} */
 
